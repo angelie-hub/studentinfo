@@ -1,2 +1,0 @@
-# studentinfo
-BSIT2A
